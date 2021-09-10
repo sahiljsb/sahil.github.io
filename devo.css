@@ -1,0 +1,13 @@
+.body{
+    color: #000;
+}
+
+
+.card-img, .card-img-bottom, .card-img-top{
+    width: 35%;
+ margin-left: 20px;
+ margin-top: 10px;
+}
+.card{
+  border:  8px solid rgb(14 14 14 / 98%);
+}
